@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Neel Ratn",
+      "username": "neel",
+      "email": "neel@gmail.com",
+      "phone": "123456789",
+      "id": 1
+    },
+    {
+      "name": "bdckbck",
+      "username": "jsdbjshdbvj",
+      "email": "bsjhdvbjh",
+      "phone": "bshjbvjhd",
+      "id": 2
+    },
+    {
+      "name": "sdbskdjvnk",
+      "username": "ksbdv",
+      "email": "kewbqh",
+      "phone": "cnkbvch",
+      "id": 3
+    }
+  ]
+}
